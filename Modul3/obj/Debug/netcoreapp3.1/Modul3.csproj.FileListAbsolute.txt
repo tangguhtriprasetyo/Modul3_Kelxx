@@ -1,0 +1,13 @@
+D:\Tangguh\Kuliah\DKP\Project\Modul3\bin\Debug\netcoreapp3.1\Modul3.exe
+D:\Tangguh\Kuliah\DKP\Project\Modul3\bin\Debug\netcoreapp3.1\Modul3.deps.json
+D:\Tangguh\Kuliah\DKP\Project\Modul3\bin\Debug\netcoreapp3.1\Modul3.runtimeconfig.json
+D:\Tangguh\Kuliah\DKP\Project\Modul3\bin\Debug\netcoreapp3.1\Modul3.runtimeconfig.dev.json
+D:\Tangguh\Kuliah\DKP\Project\Modul3\bin\Debug\netcoreapp3.1\Modul3.dll
+D:\Tangguh\Kuliah\DKP\Project\Modul3\bin\Debug\netcoreapp3.1\Modul3.pdb
+D:\Tangguh\Kuliah\DKP\Project\Modul3\obj\Debug\netcoreapp3.1\Modul3.csprojAssemblyReference.cache
+D:\Tangguh\Kuliah\DKP\Project\Modul3\obj\Debug\netcoreapp3.1\Modul3.csproj.CoreCompileInputs.cache
+D:\Tangguh\Kuliah\DKP\Project\Modul3\obj\Debug\netcoreapp3.1\Modul3.AssemblyInfoInputs.cache
+D:\Tangguh\Kuliah\DKP\Project\Modul3\obj\Debug\netcoreapp3.1\Modul3.AssemblyInfo.cs
+D:\Tangguh\Kuliah\DKP\Project\Modul3\obj\Debug\netcoreapp3.1\Modul3.dll
+D:\Tangguh\Kuliah\DKP\Project\Modul3\obj\Debug\netcoreapp3.1\Modul3.pdb
+D:\Tangguh\Kuliah\DKP\Project\Modul3\obj\Debug\netcoreapp3.1\Modul3.genruntimeconfig.cache
